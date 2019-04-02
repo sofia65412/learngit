@@ -3,3 +3,5 @@ Min älskling
 Din älskling
 
 I want to understand git diff --staged
+
+this SUPER commit
